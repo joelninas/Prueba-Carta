@@ -1,0 +1,2 @@
+Este es una primera practica de utilizando el software de contraol de versiones Git
+estoy hacciendo pruebas para ver si esto sirbe sino que se vaya a la verga.
